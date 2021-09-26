@@ -1,0 +1,6 @@
+B:\C#\Pilas\Pilas\bin\Debug\Pilas.exe.config
+B:\C#\Pilas\Pilas\bin\Debug\Pilas.exe
+B:\C#\Pilas\Pilas\bin\Debug\Pilas.pdb
+B:\C#\Pilas\Pilas\obj\Debug\Pilas.csproj.CoreCompileInputs.cache
+B:\C#\Pilas\Pilas\obj\Debug\Pilas.exe
+B:\C#\Pilas\Pilas\obj\Debug\Pilas.pdb
