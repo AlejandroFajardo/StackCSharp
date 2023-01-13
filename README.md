@@ -1,2 +1,2 @@
 # StackCSharp
-Implementación de teoría de pilas en C#
+C# stack Theory Implementation example
